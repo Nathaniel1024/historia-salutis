@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local agent/tooling folders
+.agents/
+.aws/
+.codex/
+
+# Downloaded media assets (generated, large)
+public/assets/chapters/
+public/audio/new-audio/
+public/audio/ambient/*.mp3
+
