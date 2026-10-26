@@ -126,7 +126,7 @@ git clone <your-repository-url>
 Example:
 
 ```bash
-git clone https://github.com/Nathaniel1024/the-living-scroll.git
+git clone https://github.com/Nathaniel1024/historia-salutis.git
 ```
 
 ### 3) Enter the project folder
