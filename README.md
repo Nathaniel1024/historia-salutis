@@ -422,9 +422,7 @@ For larger content updates, include theological/source notes in your PR descript
 
 ## License
 
-This repository currently has **no `LICENSE` file**.
+This project is licensed under the **MIT License**.
 
-That means default copyright applies (all rights reserved) unless you add an explicit open-source license.
-
-If you want this project open-source, add a license file (commonly MIT, Apache-2.0, or GPL-3.0) and update this section accordingly.
+See `LICENSE` for the full text.
 
