@@ -112,18 +112,11 @@ Primary data source: `src/data/chaptersData.ts`.
 
 ### 1) Copy the repository URL
 
-Use your repository URL (HTTPS or SSH). Example format:
+Repository URL:
 
-- HTTPS: `https://github.com/<your-username>/<your-repo>.git`
-- SSH: `git@github.com:<your-username>/<your-repo>.git`
+- `https://github.com/Nathaniel1024/historia-salutis.git`
 
 ### 2) Clone the project
-
-```bash
-git clone <your-repository-url>
-```
-
-Example:
 
 ```bash
 git clone https://github.com/Nathaniel1024/historia-salutis.git
@@ -132,7 +125,7 @@ git clone https://github.com/Nathaniel1024/historia-salutis.git
 ### 3) Enter the project folder
 
 ```bash
-cd <your-repo-folder>
+cd historia-salutis
 ```
 
 ### 4) Install dependencies
