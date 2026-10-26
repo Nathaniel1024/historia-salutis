@@ -30,7 +30,5 @@ Thumbs.db
 .codex/
 
 # Downloaded media assets (generated, large)
-public/assets/chapters/
-public/audio/new-audio/
 public/audio/ambient/*.mp3
 
